@@ -1,9 +1,6 @@
 # SlackBot_gemini
 
 Slack串接gemini
-# Slack Gemini Bot
-
-一個整合 Google Gemini API 的 Slack 聊天機器人，可在頻道中回應提及，並支援私訊互動。
 
 ## 功能特色
 
