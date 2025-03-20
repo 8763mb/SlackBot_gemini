@@ -53,7 +53,7 @@ PORT=3000
 ## 執行程式
 
 ```bash
-python app.py
+python appweb.py
 ngrok http 3000
 ```
 
