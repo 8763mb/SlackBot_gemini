@@ -1,0 +1,5 @@
+flask
+slack-sdk
+google-generativeai
+python-dotenv
+certifi
